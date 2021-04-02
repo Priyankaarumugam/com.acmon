@@ -1,3 +1,12 @@
-public class sam()
+public class sam
 {
+publc void add()
+{
+int a=10,b=20;
+sysout(a+b);
+
+
+}
+
+
 }
